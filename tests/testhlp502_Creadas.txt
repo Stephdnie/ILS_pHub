@@ -1,0 +1,2 @@
+#FileName	Time	MaxIter	Rand	Rand-Param1	Rand-Param	Seed
+Creada50_2.txt    900    20000    g    0.5     5832706    0.5
